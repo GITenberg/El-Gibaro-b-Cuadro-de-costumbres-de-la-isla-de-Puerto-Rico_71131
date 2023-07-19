@@ -1,0 +1,26 @@
+_repo: El-Gibaro-b-Cuadro-de-costumbres-de-la-isla-de-Puerto-Rico_71131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alonso, Manuel Antonio
+    gutenberg_agent_id: '56088'
+    url: http://www.gutenberg.org/2009/agents/56088
+description: ''
+gutenberg_issued: '2023-07-06'
+identifiers:
+  gutenberg: '71131'
+language: es
+pgterms:marc904: https://archive.org/details/elgibarogoog
+pgterms:marc905: 20220324154743alonso
+pgterms:marc906: '1849'
+pgterms:marc907: ES
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aSpain :$bD. Juan Oliveres, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'El Gibaro : $b Cuadro de costumbres de la isla de Puerto Rico'
+url: http://www.gutenberg.org/ebooks/71131
