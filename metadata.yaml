@@ -1,11 +1,16 @@
 _repo: El-Gibaro-b-Cuadro-de-costumbres-de-la-isla-de-Puerto-Rico_71131
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71131-h/images/cover.jpg
 creator:
   author:
     agent_name: Alonso, Manuel Antonio
     gutenberg_agent_id: '56088'
     url: http://www.gutenberg.org/2009/agents/56088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71131#El-Gibaro-b-Cuadro-de-costumbres-de-la-isla-de-Puerto-Rico
 gutenberg_issued: '2023-07-06'
 identifiers:
   gutenberg: '71131'
